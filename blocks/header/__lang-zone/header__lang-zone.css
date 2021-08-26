@@ -1,0 +1,5 @@
+.header__lang-zone {
+    display: flex;
+    justify-content: space-between;
+    flex-basis: 77px;
+}
