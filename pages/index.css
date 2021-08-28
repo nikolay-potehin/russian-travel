@@ -21,3 +21,18 @@
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__list-span/intro__list-span.css);
 @import url(../blocks/intro/__list-item/intro__list-item.css);
+
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_beach.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_big-mountain.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_fog-mountains.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_fog.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_gorge.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_mountains.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_sign.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_sky.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_snow-mountains.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_sunset.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_wheel.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_window.css);
